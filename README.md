@@ -38,3 +38,10 @@ Reference sites:
 NDVI Data Sources:
   - https://lpdaac.usgs.gov/products/mod13a3v006/#tools
   
+
+Team Members:
+  - Franciszek Mierzejewski
+  - https://github.com/KOLESNiii
+  - https://github.com/nanimuwu
+  - Piotr Breda
+  - Joe Connor
